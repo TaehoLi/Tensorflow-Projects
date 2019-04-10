@@ -1,2 +1,3 @@
 # Tensorflow-Projects
-book
+
+_Author: Ankit Jain, Armando Fandango and Amita Kapoor_
